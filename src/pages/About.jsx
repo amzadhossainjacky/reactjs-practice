@@ -1,10 +1,11 @@
 /* boiler plate */
 import React from "react";
+import Title from "../components/Title";
 
 function About() {
     return(
         <div>
-            <h1>This is about page</h1>
+            <Title name="About Us"/>
         </div>
     )
 }
