@@ -15,3 +15,15 @@ If you are developing a production application, we recommend using TypeScript wi
 
  # command:
  # npm create vite@latest my-app -- --template react
+
+
+
+
+<!--  Hooks  -->
+
+<!-- 
+useState  - state store (form input data)
+useEffect - After open what rendering
+useMemo - cache data
+-->
+

@@ -2,6 +2,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Register from "./pages/Register";
 import User from "./pages/User";
+import UserCreate from "./pages/UserCreate";
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
         {/* <About />
         <Contact /> */}
         {/* <Register /> */}
-        <User />
+        {/* <User /> */}
+        <UserCreate />
       </div>
     </>
   );
